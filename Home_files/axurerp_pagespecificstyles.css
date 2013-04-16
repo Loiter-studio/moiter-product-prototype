@@ -56,10 +56,6 @@ div {
     word-wrap:break-word;
 }
 
-.u2_normal {
-    background-image: url('../Home_files/u2_normal.png');
-}
-
 .u2_container {
     position:absolute;
     left:106px;
@@ -342,14 +338,10 @@ div {
     font-family: 'Applied Font';
 }
 
-.u18_normal {
-    background-image: url('../Home_files/u18_normal.png');
-}
-
 .u18_container {
     position:absolute;
     left:1190px;
-    top:88px;
+    top:64px;
     width:68px;
     height:73px;
 }
